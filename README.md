@@ -33,8 +33,8 @@ D=√(X2-x1)²+(y2-y1)²
      X= ce-bf/ae-bd
      Y = af-cd/ae-bd
 
-Escreva um sistema que lê os coeficientes a,b,c,d,e e f e calcula e mostra os
-valores de x e y.
+    Escreva um sistema que lê os coeficientes a,b,c,d,e e f e calcula e mostra os
+    valores de x e y.
 
 8. O custo ao consumidor de um carro novo é a soma do custo de fábrica com a
 percentagem do distribuidor e dos impostos (aplicados ao custo de fábrica).
